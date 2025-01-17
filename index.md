@@ -6,7 +6,7 @@
 ### Satellite Event at NetSci2025 (Maastricht, June 2-6)
 This session aims at bringing together researchers active in studying applications of networks in historical research to discuss state-of-the-art, share knowledge across disciplines, and create opportunities for novel and fruitful collaborations. 
 
-### CALL FOR ABSTRACTS 
+#### CALL FOR ABSTRACTS 
 
 We invite abstracts of published / unpublished / in progress work for short talks to present at the satellite symposium. The scope includes (but is not limited to):
 
