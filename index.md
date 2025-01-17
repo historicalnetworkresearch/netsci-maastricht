@@ -17,7 +17,7 @@ We invite abstracts of published / unpublished / in progress work for short talk
 - Visualisations techniques for historical network data
 - Best practices, methods, and tools for network-based historical analysis
 
-*Please send your contribution [here](events@historicalnetworkresearch.org) with subject "submission histonet2025".*
+*Please send your contribution [here](mailto:events@historicalnetworkresearch.org) with subject "submission histonet2025".*
 
 #### IMPORTANT DATES
 
@@ -35,4 +35,4 @@ Presenters of accepted contributions must register for NetSci2025 (information [
 ## Contacts 
 You can find more infos about accomodation and  transport on the [website](https://netsci2025.github.io/) of the conference.
 
-For any question contact us [here](events@historicalnetworkresearch.org) with subject "histonet2025"
+For any question contact us [here](mailto:events@historicalnetworkresearch.org) with subject "histonet2025"
