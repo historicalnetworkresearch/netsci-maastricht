@@ -7,7 +7,7 @@ This workshop aims at bringing together researchers active in studying applicati
 
 ### Call for Abstracts
 
-We invite abstracts of published / unpublished / in progress work for short talks and/or posters to present at the satellite symposium. The scope includes but is not limited to:
+We invite abstracts of published / unpublished / in progress work for short talks and/or posters to present at the satellite symposium. The scope includes (but is not limited to):
 
 - Comparison and integration of various historical datasets
 - Network representation of prosopographical or relational data
