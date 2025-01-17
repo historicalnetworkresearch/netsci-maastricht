@@ -30,7 +30,7 @@ Satellite Event: June 2nd or 3rd (to be decided)
 #### REQUIREMENTS
 Submissions (max 1 page in PDF format) must include title, author(s), affiliation(s), e-mail address(es), name of the presenter. We highly recommended to add a visualisation of your network.
 
-Presenters of accepted contributions must register for NetSci2025 (information [here](https://netsci2025.github.io/registration/). )
+Presenters of accepted contributions must register for NetSci2025 (information [here](https://netsci2025.github.io/registration/)).
 
 ## Contacts 
 You can find more infos about accomodation and  transport on the [website](https://netsci2025.github.io/) of the conference.
