@@ -24,9 +24,9 @@ We invite abstracts of published / unpublished / in progress work for short talk
 
 Deadline for abstract submission: February 15th
 
-Results for abstract selection: February 20th
+Abstract selection notification: February 20th
 
-Satellite Event: June 2nd or 3rd (to be decided)
+Satellite Event: June 3rd, 14:30-17:30
 
 #### REQUIREMENTS
 Submissions (max 1 page in PDF format) must include title, author(s), affiliation(s), e-mail address(es), name of the presenter. We highly recommended to add a visualisation of your network.
