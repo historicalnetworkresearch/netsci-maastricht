@@ -33,7 +33,7 @@ Submissions (max 1 page in PDF format) must include title, author(s), affiliatio
 
 Presenters of accepted contributions must register for NetSci2025 (information [here](https://netsci2025.github.io/registration/)).
 
-## Contacts 
+#### CONTACTS 
 You can find more infos about accomodation and  transport on the [website](https://netsci2025.github.io/) of the conference.
 
 For any question contact us [here](mailto:events@historicalnetworkresearch.org) with subject "histonet2025"
