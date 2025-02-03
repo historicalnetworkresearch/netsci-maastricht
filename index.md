@@ -29,7 +29,7 @@ Abstract selection notification: February 20th
 Satellite Event: June 3rd, 14:30-17:30
 
 #### REQUIREMENTS
-Submissions (max 1 page in PDF format) must include title, author(s), affiliation(s), e-mail address(es), name of the presenter. We highly recommended to add a visualisation of your network.
+Submissions (max 1 page in PDF format), beside the abstract (max 500 words) must include title, author(s), affiliation(s), e-mail address(es), name of the presenter. We highly recommended to add a visualisation of your network.
 
 Presenters of accepted contributions must register for NetSci2025 (information [here](https://netsci2025.github.io/registration/)).
 
