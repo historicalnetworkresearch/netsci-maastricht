@@ -22,7 +22,7 @@ We invite abstracts of published / unpublished / in progress work for short talk
 
 #### IMPORTANT DATES
 
-Deadline for abstract submission: February 15th
+NEW!!! Deadline for abstract submission: <del> February 15th </del> February 20th!
 
 Abstract selection notification: February 20th
 
