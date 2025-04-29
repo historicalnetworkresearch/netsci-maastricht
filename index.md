@@ -1,9 +1,9 @@
+- [Home](./)
+- [Program](./program/)
+
 # HNR at NetSci
 
 <img src="images/hnr header modern-min.png">
-
-- [Home](./)
-- [Programma](./program/)
   
 ## HISTONET - Historical Networks
 ### Satellite Event at NetSci2025 (Maastricht, June 2-6)
