@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Program
-permalink: /program/
+permalink: /netsci-maastricht/program/
 ---
 
 # HNR at NetSci
