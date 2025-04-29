@@ -2,6 +2,9 @@
 
 <img src="images/hnr header modern-min.png">
 
+- [Home](./)
+- [Programma](./program/)
+  
 ## HISTONET - Historical Networks
 ### Satellite Event at NetSci2025 (Maastricht, June 2-6)
 This session aims at bringing together researchers active in studying applications of networks in historical research to discuss state-of-the-art, share knowledge across disciplines, and create opportunities for novel and fruitful collaborations. 
