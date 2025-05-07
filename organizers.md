@@ -1,16 +1,14 @@
-# HNR at NetSci
+# HISTONET - HNR at NetSci
 
 <img src="images/hnr header modern-min.png">
 
-## HISTONET - Historical Networks
-
-# Organizers 
+## Organizers 
 
 This satellite event is organized by the **Historical Network Research (HNR)** community, and in particular by:
 
 ---
 
-## Marcella Tambuscio  
+### Marcella Tambuscio  
 
 *Researcher at the University of Graz’s Department of Digital Humanities*
 
@@ -29,7 +27,7 @@ Marcella has a background in Mathematics and Computer Science. Her PhD focused o
 
 ---
 
-## Demival Vasques Filho  
+### Demival Vasques Filho  
 
 *Research scientist at the C²DH – University of Luxembourg*
 
