@@ -1,3 +1,9 @@
+---
+layout: default
+title: Program
+permalink: /netsci-maastricht/program/
+---
+
 # HNR at NetSci
 
 <img src="images/hnr header modern-min.png">
