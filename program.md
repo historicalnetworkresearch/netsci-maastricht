@@ -4,7 +4,7 @@
 
 ## HISTONET - Historical Networks
 
-### Satellite Event Program  
+### General Info  
 🗓  **Date:** Tuesday, 2025 June 3rd
 
 📍 **Location:** [FASoS GG76S](https://maps.app.goo.gl/NVxXJbJyiwX8PfDGA)  
@@ -12,7 +12,7 @@
 
 ---
 
-🕒 ### Program
+### 🕒 Program
 
 **14:30 – 14:40**  
 Opening remarks
