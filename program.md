@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Program
 permalink: /netsci-maastricht/program/
 ---
