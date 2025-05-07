@@ -1,18 +1,18 @@
-# HNR at NetSci
+# HISTONET - HNR at NetSci
 
 <img src="images/hnr header modern-min.png">
 
 ## HISTONET - Historical Networks
 
-# Satellite Event Program  
-**Date:** Tuesday, 2025 June 3rd
+### Satellite Event Program  
+🗓  **Date:** Tuesday, 2025 June 3rd
 
-**Location:** [FASoS GG76S](https://maps.app.goo.gl/NVxXJbJyiwX8PfDGA)  
+📍 **Location:** [FASoS GG76S](https://maps.app.goo.gl/NVxXJbJyiwX8PfDGA)  
 *Please note that this is **not** the location of the main NetSci conference. The satellite event will take place in the city center, at the Faculty of Arts and Social Sciences (FASoS), Grote Gracht 90, 6211 SZ Maastricht.*
 
 ---
 
-## 🗓 Program
+🕒 ### Program
 
 **14:30 – 14:40**  
 Opening remarks
