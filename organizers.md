@@ -11,6 +11,7 @@ This satellite event is organized by the **Historical Network Research (HNR)** c
 ---
 
 ## Marcella Tambuscio  
+
 <table>
 <tr>
 <td style="width: 160px;">
@@ -29,11 +30,22 @@ Marcella has a background in Mathematics and Computer Science. Her PhD focused o
 ---
 
 ## Demival Vasques Filho  
+
+<table>
+<tr>
+<td style="width: 160px;">
+  <img src="/netsci-maastricht/images/demival.png" alt="Demival Vasques Filho" width="140">
+</td>
+<td>
+
 *Research scientist at the C²DH – University of Luxembourg*
 
 Demival holds a PhD in Physics, specializing in the area of complex systems and network theory, from the University of Auckland, New Zealand. His thesis explored the structure and evolution of large-scale two-mode social networks. His research interests focus on developing new methods and expanding the application of complex systems concepts in the study of social sciences and humanities.
 
-<img src="/netsci-maastricht/images/demival.png" alt="Demival Vasques Filho" width="150">
+</td>
+</tr>
+</table>
+
 
 
 ---
