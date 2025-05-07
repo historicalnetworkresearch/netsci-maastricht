@@ -52,6 +52,5 @@ Demival holds a PhD in Physics, specializing in the area of complex systems and 
 
 ## About HNR
 
-[Historical Network Research (HNR)](https://historicalnetworkresearch.org/about/) is an interdisciplinary community that brings together scholars applying network analysis in historical research.  
-To learn more and get involved, visit the official website:  
+[Historical Network Research (HNR)](https://historicalnetworkresearch.org/about/) is an interdisciplinary community that brings together scholars applying network analysis in historical research. To learn more and get involved, visit the official website:  
 🔗 [https://historicalnetworkresearch.org](https://historicalnetworkresearch.org)
