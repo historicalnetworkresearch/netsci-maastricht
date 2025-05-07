@@ -16,7 +16,7 @@ This satellite event is organized by the **Historical Network Research (HNR)** c
 Marcella has a background in Mathematics and Computer Science. Her PhD focused on the theoretical aspects of misinformation spread in social networks. Since 2020, she has applied network and data science to analyze historical and contemporary archives. Her main research interest is developing interdisciplinary approaches to address the complexity of research in the humanities.
 
 <!-- Optional image (replace the link below with an uploaded image in your repo) -->
-<!-- ![Marcella Tambuscio](/netsci-maastricht/images/marcella.png) -->
+![Marcella Tambuscio](/netsci-maastricht/images/marcella.png) 
 
 ---
 
@@ -26,7 +26,7 @@ Marcella has a background in Mathematics and Computer Science. Her PhD focused o
 Demival holds a PhD in Physics, specializing in the area of complex systems and network theory, from the University of Auckland, New Zealand. His thesis explored the structure and evolution of large-scale two-mode social networks. His research interests focus on developing new methods and expanding the application of complex systems concepts in the study of social sciences and humanities.
 
 <!-- Optional image -->
-<!-- ![Demival Vasques Filho](/netsci-maastricht/images/demival.png) -->
+![Demival Vasques Filho](/netsci-maastricht/images/demival.png) 
 
 ---
 
