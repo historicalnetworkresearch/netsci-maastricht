@@ -26,8 +26,8 @@ Opening remarks
 **Comparative Study of Historical Literary Networks based on Wikipedia Data-mining**
 
 **15:20 – 15:40**  
-*Fernando Diaz* (Universitat de les Illes Balears)  
-**Local balance reveals major historical events in signed networks of international relations**
+*Malte Vogl* (Max Planck Institute of Geoanthropology)  
+**Collaboration and interdisciplinarity in the History of the Max Planck Society**
 
 **15:40 – 16:00**  
 *Tom Brughmans* (Aarhus University)  
@@ -44,12 +44,12 @@ Opening remarks
 *Francesco Bertolotti* (Cattaneo University)  
 **Navigating Success: A Network Analysis of Maritime Trade and Urban Prosperity in the Roman Empire**
 
-**17:20 – 17:40**  
-*Malte Vogl* (Max Planck Institute of Geoanthropology)  
-**Collaboration and interdisciplinarity in the History of the Max Planck Society**
+**17:20 – 17:40**
+*Fernando Diaz* (Universitat de les Illes Balears)  
+**Local balance reveals major historical events in signed networks of international relations**
 
 **17:40 – 18:20**  
-🔑 **KEYNOTE (TBA)**
+🎤🌟 **KEYNOTE** *Maximilian Schich* (Professor for Cultural Data Analytics at Tallinn University)
 
 **18:20 – 18:30**  
 Closing Remarks
