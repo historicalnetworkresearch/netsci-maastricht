@@ -42,12 +42,13 @@ Opening remarks
 *Francesco Bertolotti* (Cattaneo University)  
 **Navigating Success: A Network Analysis of Maritime Trade and Urban Prosperity in the Roman Empire**
 
-**17:20 – 17:40**
+**17:20 – 17:40**  
 *Fernando Diaz* (Universitat de les Illes Balears)  
 **Local balance reveals major historical events in signed networks of international relations**
 
-**17:40 – 18:20**  
-🎤🌟 **KEYNOTE** *Maximilian Schich* (Professor for Cultural Data Analytics at Tallinn University)
+**17:40 – 18:20**   
+🎤🌟 **KEYNOTE:** *Maximilian Schich* (Tallinn University)  
+**Network History** [**(abstract)**](https://historicalnetworkresearch.github.io/netsci-maastricht/keynote) 
 
 **18:20 – 18:30**  
 Closing Remarks
