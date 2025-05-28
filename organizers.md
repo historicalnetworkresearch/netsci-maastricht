@@ -2,9 +2,7 @@
 
 <img src="images/hnr header modern-min.png">
 
-## HISTONET - Historical Networks
-
-### Organizers 
+##  Organizers 
 
 This satellite event is organized by the **Historical Network Research (HNR)** community, and in particular by:
 
