@@ -6,8 +6,6 @@
 
 This satellite event is organized by the **Historical Network Research (HNR)** community, and in particular by:
 
----
-
 ### Marcella Tambuscio  
 
 *Researcher at the University of Graz’s Department of Digital Humanities*
@@ -24,8 +22,6 @@ Marcella has a background in Mathematics and Computer Science. Her PhD focused o
 </td>
 </tr>
 </table>
-
----
 
 ### Demival Vasques Filho  
 
@@ -44,9 +40,6 @@ Demival holds a PhD in Physics, specializing in the area of complex systems and 
 </tr>
 </table>
 
-
-
----
 
 ## About HNR
 
