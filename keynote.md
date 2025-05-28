@@ -6,14 +6,13 @@
 
 ### Speaker: Maximilian Schich
 
-<tr align="justify">
 <td style="width: 160px;">
   <img src="/netsci-maastricht/images/maximilian.png" alt="Maximilian Schich" width="140">
 </td>
-<td  align="justify"> 
+<p  align="justify"> 
 Maximilian Schich, currently professor for cultural data analytics at Tallinn University, is a multidisciplinary scientist and art historian, who works to facilitate our understanding of aesthetics and cultural interaction. Max studied art history, archaeology, and psychology at LMU Munich and HU Berlin, followed by a postdoc phase in complex network science and computational social science at Northeastern University in Boston and ETH Zurich. From 2013, Max served as Associate Professor in Arts & Technology and as Founding member of the Edith O'Donnell Institute for Art History at UT Dallas. In 2020 Max moved to Estonia to lead the CUDAN ERA Chair project for Cultural Data Analytics. In 2023/24, Max was awarded with the Wittkower Fellowship of Max-Planck Society for his pioneering multidisciplinary contributions to art research, including regarding the city of Rome. Breakthroughs include a pioneering PhD monograph on "Reception & Visual Tradition as Complex Networks", "A Network Framework of Cultural History" in Science Magazine, and "Compression Ensembles" capturing visual family resemblance without AI training. In "Cultural Analysis Situs", Max has uncovered a shared theoretical foundation of network science, topology, computation, and the history of symbolic forms in Leibniz.
-</td>
-</tr>
+</p>
+
 
 ### Talk: "Network History"
 
