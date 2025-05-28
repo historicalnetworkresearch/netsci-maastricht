@@ -2,15 +2,13 @@
 
 <img src="images/hnr header modern-min.png">
 
-## HISTONET - Historical Networks
 
-### General Info  
+## General Info  
 🗓  **Date:** Tuesday, 2025 June 3rd
 
 📍 **Location:** [FASoS GG76S](https://maps.app.goo.gl/NVxXJbJyiwX8PfDGA)  
 *Please note that this is **not** the location of the main NetSci conference. The satellite event will take place in the city center, at the Faculty of Arts and Social Sciences (FASoS), Grote Gracht 90, 6211 SZ Maastricht.*
 
----
 
 ### 🕒 Program
 
