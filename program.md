@@ -44,7 +44,7 @@ Opening remarks
 
 **17:20 – 17:40**  
 *Fernando Diaz* (Universitat de les Illes Balears)  
-**Local balance reveals major historical events in signed networks of international relations**
+**Local Balance reveals major Historical Events in Signed Networks of International Relations**
 
 **17:40 – 18:20**   
 🎤🌟 **KEYNOTE:** *Maximilian Schich* (Tallinn University)  
