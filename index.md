@@ -8,7 +8,7 @@ This session aims at bringing together researchers active in studying applicatio
 
 #### NEWS: Keynote Announcement & Final Program! 
 
-We’re excited to announce that **Maximilian Schich** will be our keynote speaker at HISTONET 2025!  
+We’re excited to announce that [**Maximilian Schich**](https://historicalnetworkresearch.github.io/netsci-maastricht/keynote) will be our keynote speaker at HISTONET 2025!  
 The full program is now available in the [**Program**](https://historicalnetworkresearch.github.io/netsci-maastricht/program) section of the website.  
 Join us on **June 3rd in Maastricht** to explore the role of networks in historical research — we look forward to seeing many of you there!
 
