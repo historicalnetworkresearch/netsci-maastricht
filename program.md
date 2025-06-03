@@ -34,22 +34,18 @@ Opening remarks
 **16:00 – 16:30**  
 ☕ Coffee Break
 
-**16:40 – 17:00**  
+**16:30 – 16:50**  
 *Doina Bucur* (University of Twente)  
 **Parallels in Astronomical Traditions**
 
-**17:00 – 17:20**  
-*Francesco Bertolotti* (Cattaneo University)  
-**Navigating Success: A Network Analysis of Maritime Trade and Urban Prosperity in the Roman Empire**
-
-**17:20 – 17:40**  
+**16:50 – 17:10**  
 *Fernando Diaz* (Universitat de les Illes Balears)  
 **Local Balance reveals major Historical Events in Signed Networks of International Relations**
 
-**17:40 – 18:20**   
+**17:10 – 17:50**   
 🎤🌟 **KEYNOTE:** *Maximilian Schich* (Tallinn University)  
 **Network History** [**(abstract)**](https://historicalnetworkresearch.github.io/netsci-maastricht/keynote) 
 
-**18:20 – 18:30**  
+**17:50 – 18:00**  
 Closing Remarks
 
